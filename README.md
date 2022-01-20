@@ -4,7 +4,7 @@ by Annelise Holverstott, Rufus Ayeni, and Anand Ramakrishnan
 
 Nov 11, 2021
 
-General Assembly \\/ Data Science Immersive 
+General Assembly \/ Data Science Immersive 
 
 ---
 
