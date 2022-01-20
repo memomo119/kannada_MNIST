@@ -1,10 +1,10 @@
-# Project 4
+# Classification of MNIST images - Kannada numerals
 ---
-by Rufus Ayeni, Anand Ramakrishnan and Annelise Holverstott
+by Annelise Holverstott, Rufus Ayeni, and Anand Ramakrishnan
 
 Nov 11, 2021
 
-GA DSI 927/Hopper
+General Assembly \\/ Data Science Immersive 
 
 ---
 
