@@ -18,6 +18,8 @@ The `train.csv` data consists of 60,000 images of handwritten Kannada numerals 0
 
 There is also a second data set called `Dig-MNIST.csv` from non-native Kannada speakers collected under different conditions from the main data set, which we used to test our model. Because of the difference in quality of the images, this data set is not a good validation data set; 76% accuracy is considered normal for this data. 
 
+To access the data for this project, please [download it via Kaggle.](https://www.kaggle.com/c/Kannada-MNIST/data) 
+
 ## Methodology
 
 We used `train_test_split` to divide the training data. All the pixel gradations went into our `X` and were reshaped. The `label` column is our `y`. We converted this from a single column of values 0-9 to 10 categorical, binary columns. 
